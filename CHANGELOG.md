@@ -1,5 +1,16 @@
 # Changelog
 
+## [4.0.0](https://github.com/jshlbrd/substation/compare/v3.0.0...v4.0.0) (2024-12-14)
+
+
+### ⚠ BREAKING CHANGES
+
+* test release
+
+### Continuous Integration
+
+* test release ([55bfff0](https://github.com/jshlbrd/substation/commit/55bfff061ba98a46e9feddacac9dfe71a11464c7))
+
 ## [3.0.0](https://github.com/jshlbrd/substation/compare/v2.0.0...v3.0.0) (2024-12-14)
 
 
