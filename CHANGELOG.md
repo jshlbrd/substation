@@ -1,5 +1,12 @@
 # Changelog
 
+## [5.0.1](https://github.com/jshlbrd/substation/compare/v5.0.0...v5.0.1) (2024-12-14)
+
+
+### Bug Fixes
+
+* version update ([2a06140](https://github.com/jshlbrd/substation/commit/2a06140b74f629854324bec379b8b1c679405567))
+
 ## [5.0.0](https://github.com/jshlbrd/substation/compare/v4.0.0...v5.0.0) (2024-12-14)
 
 
