@@ -1,6 +1,6 @@
 {
   "release-type": "go",
   "extra-files": [
-    "VERSION.txt"
+    "VERSION.md"
   ]
 }
