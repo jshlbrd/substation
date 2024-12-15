@@ -1,5 +1,12 @@
 # Changelog
 
+## [7.1.1-alpha](https://github.com/jshlbrd/substation/compare/v7.1.0-alpha...v7.1.1-alpha) (2024-12-15)
+
+
+### Bug Fixes
+
+* release plesae ([3c46809](https://github.com/jshlbrd/substation/commit/3c46809be3ea89c7ce1f3023e32e1450f8c8df96))
+
 ## [7.1.0-alpha](https://github.com/jshlbrd/substation/compare/v7.0.0...v7.1.0-alpha) (2024-12-15)
 
 
