@@ -5,7 +5,7 @@
     ".": {
       "release-type": "go",
       "versioning": "prerelease",
-      "prerelease-type": "alpha",
+      "prerelease-type": "rc",
       "extra-files": [
         "VERSION.md"
       ]    
