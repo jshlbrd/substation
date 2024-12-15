@@ -3,11 +3,10 @@
   "pull-request-title-pattern": "build${scope}: release${component} ${version}",
   "packages": {
     ".": {
-      "release-type": "go",
       "extra-files": [
         {
           "type": "generic",
-          "path": "VERSION.md"
+          "path": "VERSION.txt"
         }
       ]    
     }
