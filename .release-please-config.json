@@ -4,8 +4,6 @@
   "packages": {
     ".": {
       "release-type": "go",
-      "versioning": "prerelease",
-      "prerelease-type": "rc",
       "extra-files": [
         "VERSION.md"
       ]    
