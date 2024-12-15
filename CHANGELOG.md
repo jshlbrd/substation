@@ -1,5 +1,25 @@
 # Changelog
 
+## [6.0.0](https://github.com/jshlbrd/substation/compare/v5.0.0...v6.0.0) (2024-12-15)
+
+
+### ⚠ BREAKING CHANGES
+
+* release please
+* release please
+* release please
+
+### Bug Fixes
+
+* version update ([2a06140](https://github.com/jshlbrd/substation/commit/2a06140b74f629854324bec379b8b1c679405567))
+
+
+### Miscellaneous Chores
+
+* release please ([b181cef](https://github.com/jshlbrd/substation/commit/b181cef886851b6900547bfd4e054d3c40139db1))
+* release please ([2bc0fcc](https://github.com/jshlbrd/substation/commit/2bc0fccfb6015eac3e50ed1ba6fbb5829b733c94))
+* release please ([6d858bc](https://github.com/jshlbrd/substation/commit/6d858bc36ff62956645e5c62e4fb427d73eff14c))
+
 ## [5.0.1](https://github.com/jshlbrd/substation/compare/v5.0.0...v5.0.1) (2024-12-14)
 
 
