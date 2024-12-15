@@ -1,5 +1,18 @@
 # Changelog
 
+## [7.0.0](https://github.com/jshlbrd/substation/compare/v6.0.0...v7.0.0) (2024-12-15)
+
+
+### ⚠ BREAKING CHANGES
+
+* release
+* release please
+
+### Miscellaneous Chores
+
+* release ([aadb06c](https://github.com/jshlbrd/substation/commit/aadb06cd01f375ba7e4f6ca93dff9244b8a604b9))
+* release please ([fe56f51](https://github.com/jshlbrd/substation/commit/fe56f5143933ffad99fa009fc864bb7462dd99e7))
+
 ## [6.0.0](https://github.com/jshlbrd/substation/compare/v5.0.0...v6.0.0) (2024-12-15)
 
 
