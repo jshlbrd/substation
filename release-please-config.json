@@ -3,7 +3,10 @@
   "release-type": "go",
   "pull-request-title-pattern": "build${scope}: release${component} ${version}",
   "extra-files": [
-    "VERSION.md"
+    {
+      "type": "generic",
+      "path": "VERSION.md"
+    }
   ],
   "packages": {
     ".": {}
