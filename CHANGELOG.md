@@ -1,5 +1,17 @@
 # Changelog
 
+## [7.1.0-alpha](https://github.com/jshlbrd/substation/compare/v7.0.0...v7.1.0-alpha) (2024-12-15)
+
+
+### Features
+
+* Add Version to CLI ([7505418](https://github.com/jshlbrd/substation/commit/75054186dfdec456dfa5778780711f85bbf59a6b))
+
+
+### Bug Fixes
+
+* release please ([c0a1800](https://github.com/jshlbrd/substation/commit/c0a18002735a562c83de923f94900896f61e3dd4))
+
 ## [7.0.0](https://github.com/jshlbrd/substation/compare/v6.0.0...v7.0.0) (2024-12-15)
 
 
