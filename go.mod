@@ -1,4 +1,4 @@
-module github.com/brexhq/substation/v2
+module github.com/jshlbrd/substation/v2
 
 go 1.22.0
 
