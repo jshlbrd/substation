@@ -14,6 +14,9 @@ import (
 //go:embed substation.libsonnet
 var Library string
 
+//go:embed VERSION.md
+var Version string
+
 var errNoTransforms = fmt.Errorf("no transforms configured")
 
 // Config is the core configuration for the application. Custom applications
