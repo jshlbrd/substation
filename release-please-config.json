@@ -5,10 +5,7 @@
     ".": {
       "release-type": "go",
       "extra-files": [
-        {
-          "type": "generic",
-          "path": "VERSION.txt"
-        }
+        "VERSION.md"
       ]    
     }
   }
